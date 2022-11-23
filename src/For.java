@@ -5,7 +5,5 @@ public class For {
 //            System.out.println(cats[i]);
 //        }
 //
-//        /**
-//         * tak
-//         */
+
 //    }
